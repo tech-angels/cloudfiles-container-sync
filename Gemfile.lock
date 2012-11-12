@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    cloudfiles-container-sync (0.1.0)
+      cloudfiles (~> 1.5.0.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    cloudfiles (1.5.0.1)
+      json
+    json (1.7.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cloudfiles-container-sync!
